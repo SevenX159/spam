@@ -71,7 +71,7 @@ Crate:
 # <Enchantment>:<Level> - Choose the enchantment you want to add to the item. You can use the in-game names of the enchantment if you want. Replace the spaces in the name with "_".
 ###################################
       Items:
-        - 'Item:EMERALD_ORE, Amount:32, Name:&7&lBling Bling
+        - 'Item:EMERALD_ORE, Amount:32, Name:&7&lBling Bling'
       #Commands are the commands that are run when this prize is won. (If you wish not to use a CMD in the prize just delete the Commands Section)
       #You can use %Player% to get the player that won the prize.
       Commands:
